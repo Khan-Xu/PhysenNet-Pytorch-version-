@@ -4,7 +4,7 @@
 
 __authors__  = "Han Xu - HEPS B4 Beamline & PETRA III P10 Beamline"
 __date__     = "Date : Thu Apr 14 12:07:33 2022"
-__email__    = "xuhan@ihep.ac.cn or han.xu@des.de" 
+__email__    = "xuhan@ihep.ac.cn" 
 
 
 """
